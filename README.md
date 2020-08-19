@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Golang, Kubernates**
 
-- 👯 I’m looking to collaborate with **remote workers**
+- 👯 I’m looking to remote **job**
 
 - ⚡ Fun fact **I love to play PS4 and sport.**
 
