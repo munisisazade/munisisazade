@@ -4,13 +4,13 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/Munis_Isazade?label=Munis_Isazade&logo=twitter&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/munisisazade?logo=GitHub&style=for-the-badge)
 
-- 🔭 I’m currently working on [Spacebus](https://www.spacebus.dev/)
+- 🔭 I’m currently working on [Luxoft](https://www.luxoft.com/)
 
 - 🌱 I’m currently learning **Golang, Kubernates**
 
 - 👯 I’m looking to remote **job**
 
-- ⚡ Fun fact **I love to play PS4 and sport.**
+- ⚡ Fun fact **I love to play PS5 and sport.**
 
 ### Connect with me:
 
